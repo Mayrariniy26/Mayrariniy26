@@ -33,6 +33,6 @@
 
 📊 GitHub Stats:  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayrariniy26&show_icons=true&hide_border=true&count_private=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayrariniy26&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayrariniy26&layout=compact&theme=radical)  
 ![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api/gists?username=Mayrariniy26&show_icons=true&hide_border=true&theme=radical)  
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayrariniy26&theme=radical)  
