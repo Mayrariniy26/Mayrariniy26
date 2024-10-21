@@ -5,7 +5,7 @@
 - 🌱 **Full-Stack Developer** specializing in AI applications 🤖  
 - ⚡ **Data Science & Cybersecurity Enthusiast** 📊🔐  
 - 💻 **Dedicated Learner** committed to continuous growth 📚✨  
-- 🌐 **Connect with Me**: [LinkedIn Profile]((https://www.linkedin.com/in/mayrariniy-charles-jeyakumar-a96860269/)) 📫  
+- 🌐 **Connect with Me**: [LinkedIn Profile][(https://www.linkedin.com/in/mayrariniy-charles-jeyakumar-a96860269/)] 📫  
 
 
 💻 Tech Stack:  
